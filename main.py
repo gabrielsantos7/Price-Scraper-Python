@@ -5,7 +5,7 @@ from modules.browser_manager import PriceSearchAutomation
 from modules.spread_sheet import ExcelHandler
 from modules.utils import get_user_inputs
 
-from contants import *
+from constants import *
 
 # Init colorama
 init(autoreset=True)
