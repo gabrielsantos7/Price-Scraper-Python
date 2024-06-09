@@ -38,7 +38,7 @@ Siga os passos abaixo para configurar o projeto em seu ambiente local:
 4. Ative o ambiente virtual:
 
    ```bash
-      venv\Scripts\activate
+   venv\Scripts\activate
    ```
 
 5. Instale as dependências:
