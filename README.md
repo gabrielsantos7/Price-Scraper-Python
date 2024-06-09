@@ -11,7 +11,7 @@ O **Price-Scraper-Python** foi desenvolvido para ajudar usuários a encontrar os
 Antes de começar, certifique-se de ter os seguintes requisitos instalados:
 
 - Python 3.8 ou superior
-- Google Chrome versão118 ou superior
+- Google Chrome versão 118 ou superior
 
 ## Instalação ⬇️
 
